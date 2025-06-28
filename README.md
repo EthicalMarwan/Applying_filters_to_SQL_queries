@@ -1,4 +1,4 @@
-# Applying_filters_to_SQL_queries
+# Applying filters to SQL queries
 
 ## Objective
 
